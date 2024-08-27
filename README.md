@@ -1,6 +1,6 @@
 Welcome to DreamGetaways!
 
-Discover Your Perfect Escape
+discover Your Perfect Escape
 
 At DreamGetaways, we specialize in turning your holiday dreams into reality. Whether you're seeking a relaxing beach vacation, an adventurous mountain getaway, or a cultural city break, we have something for everyone. Our user-friendly website offers:
 
@@ -12,3 +12,4 @@ Customer Support: 24/7 assistance to help with any queries or changes.
 Start planning your next adventure with DreamGetaways and make unforgettable memories!
 
 Explore. Book. Enjoy.
+# DreamGetaways
